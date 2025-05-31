@@ -1,0 +1,39 @@
+{
+  "name": "coffee-shop",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.4",
+    "@react-native-async-storage/async-storage": "~2.1.0",
+    "expo": "~53.0.9",
+    "expo-constants": "~17.1.6",
+    "expo-font": "~13.3.1",
+    "expo-linking": "~7.1.5",
+    "expo-router": "~5.0.7",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-hook-form": "^7.54.0",
+    "react-native": "0.79.2",
+    "react-native-paper": "^5.12.5",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.10.0",
+    "react-native-web": "^0.20.0",
+    "zustand": "^5.0.2",
+    "react-dom": "19.0.0",
+    "expo-linear-gradient": "~14.1.4",
+    "react-native-svg": "15.11.2",
+    "expo-dev-client": "~5.1.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@types/react": "~19.0.10",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
