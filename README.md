@@ -218,23 +218,4 @@ We welcome contributions! Please follow these steps:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support and questions:
-- 📧 Email: support@coffeeshop.app
-- 📱 In-app help section
-- 🐛 [Issue Tracker](https://github.com/yourusername/coffeshop/issues)
-
-## 🙏 Acknowledgments
-
-- React Native community for excellent documentation
-- Expo team for the amazing development platform
-- Coffee lovers worldwide for inspiration
-
 ---
-
-<div align="center">
-  <p>Made with ❤️ and ☕ by the CoffeeShop Team</p>
-  <p>© 2025 CoffeeShop. All rights reserved.</p>
-</div> 
